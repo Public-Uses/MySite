@@ -55,3 +55,4 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+gem 'robocop', '~> 0.1.1'
